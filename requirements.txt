@@ -1,3 +1,5 @@
+--no-cache-dir
+--upgrade pip
 dash==2.14.1
 plotly==5.18.0
 pandas==2.0.3
